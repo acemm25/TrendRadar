@@ -1,6 +1,3 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
 
@@ -8,6 +5,11 @@ DeepSeek
 鸿蒙
 HarmonyOS
 任正非
+
+苹果
+iOS
+iPhone
+!水果
 
 比亚迪
 王传福
